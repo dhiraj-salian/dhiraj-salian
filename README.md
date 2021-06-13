@@ -13,5 +13,5 @@ Here's my Top Programming Languages:</br>
 </a>
 
 
-You can find more about me [here](dhirajsalian.com)</br>
-You can also checkout my blogs [here](blogs.dhirajsalian.com)</br>
+You can find more about me [here](https://dhirajsalian.com)</br>
+You can also checkout my blogs [here](https://blogs.dhirajsalian.com)</br>
