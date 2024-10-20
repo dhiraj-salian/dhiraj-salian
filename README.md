@@ -1,19 +1,14 @@
-<h1 align="center">I am Dhiraj Salian</h1>
+# Hi there! I'm Dhiraj 👋
 
-I am currently interested in Flutter framework and Cloud-native technologies. I am an avid user of Spring framework.</br>
-You can find more about me at [dhirajsalian.com](https://dhirajsalian.com)</br>
-You can also checkout my blogs at [blogs.dhirajsalian.com](https://blogs.dhirajsalian.com)</br>
+Welcome to my GitHub! I'm a software developer passionate about building cool things, solving problems, and exploring new technologies. Whether it's frontend, backend, machine learning, AI, or game development with Unity—I'm always looking for exciting projects to dive into.
 
-<p align="center">
-  My GitHub Stats:</br>
-  <a href="https://github.com/dhiraj-salian" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhiraj-salian&show_icons=true&hide_border=true" />
-  </a>
-</p>
+## 🔥 What you'll find here:
+- Projects ranging from web development to machine learning.
+- Code snippets and tools for backend/frontend development.
+- Experimentation with AI and game development using Unity.
 
-<p align="center">
-  My Top Programming Languages:</br>
-  <a href="https://github.com/dhiraj-salian">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-salian&layout=compact" />
-  </a>
-</p>
+## 🚀 Check out more of my work:
+- **Blog**: [TechBlog by Dhiraj](https://blogs.dhirajsalian.com) - Learn about everything from software design to AI and beyond!
+- **Portfolio**: [dhirajsalian.com](https://dhirajsalian.com) - Explore my projects and professional journey.
+
+Feel free to connect or collaborate with me on interesting projects!
